@@ -57,22 +57,6 @@ java InventoryGUI
 
 ---
 
-## 📦 Creating a Runnable JAR (Optional)
-
-If you want a single-click runnable file:
-
-```bash
-jar cfe InventoryApp.jar InventoryGUI *.class
-```
-
-Then run:
-
-```bash
-java -jar InventoryApp.jar
-```
-
----
-
 
 ## 📌 Future Enhancements
 
