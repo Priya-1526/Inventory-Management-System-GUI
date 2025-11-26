@@ -16,18 +16,6 @@ A simple and clean **desktop-based inventory management application** built usin
 
 ---
 
-## 🖥️ GUI Preview
-
-(Add your GIF or screenshot here)
-
-Example:
-
-```md
-![App Demo](demo.gif)
-```
-
----
-
 ## 🛠️ Technologies Used
 
 * **Java** (JDK 8+)
